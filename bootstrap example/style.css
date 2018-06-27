@@ -1,0 +1,40 @@
+#p1 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 15px;
+    letter-spacing: 3px;
+}
+
+a {
+    background-color: powderblue;
+    transition: background-color .5s;
+}
+
+
+  
+a:hover {
+    background-color: gold;
+}
+
+
+
+a:focus {
+    color: green;
+}
+
+a:active {
+    color: red;
+}
+
+#p2 {
+    font-family: 'Pacifico', cursive;
+}
+
+#p3 { 
+    font-family: 'Bungee Shade', cursive;
+}
+
+#p4 {
+    font-family: 'Ewert', cursive;
+}
